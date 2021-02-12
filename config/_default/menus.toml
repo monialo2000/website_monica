@@ -26,9 +26,9 @@
 
 [[main]]
 ##  name = "Publications"
-  name = "Publicaciones"
-  url = "#featured"
-  weight = 50
+##  name = "Publicaciones"
+##  url = "#featured"
+##  weight = 50
 
 [[main]]
 ##  name = "Courses"

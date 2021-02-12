@@ -55,15 +55,15 @@ superuser: true
 title: Mónica Alonso
 ---
 
-Mi nombre es Mónica Alonso. Soy Licenciada en Ciencias de la Computación (UBA). También he realizado una Maestría en Data Mining and Discovery Knowledge en la Facultad de Ciencias Exactas y Naturales (UBA), obteniendo título de Especialista y faltando la tesis para ser Magister. Trabajo como Analista en la actividad privada, en Banco Ciudad. 
+Mi nombre es Mónica Alonso. Nací y vivo en Ciudad Autónoma de Buenos Aires, Argentina. Soy Licenciada en Ciencias de la Computación ([UBA](http://www.uba.ar/)). También he realizado una Maestría en Data Mining and Discovery Knowledge en la [Facultad de Ciencias Exactas y Naturales (UBA)](https://exactas.uba.ar/), obteniendo el título de Especialista y faltando la tesis para ser Magister. Trabajo como Analista en la actividad privada, en [Banco Ciudad](https://www.bancociudad.com.ar/institucional/). 
 
-Soy Co-organizadora de Rladies_BA desde 2018, y también Instructora Certificada de The Carpentries. Colaboré en la traducción al español de algunas lecciones de R y Python en The Carpentries, de la Cheatsheet RStudio Ide y de Concept Maps de Rstudio. 
+Desde 2018 soy Co-organizadora de Rladies_BA, y también Instructora Certificada de [Software Carpentries](http://carpentries.com). Colaboré en la traducción al español de algunas [lecciones de R y Python en The Carpentries](https://github.com/Carpentries-ES), de la [Cheatsheet RStudio Ide](https://rstudio.com/resources/cheatsheets/) y de [Concept-Maps de Rstudio](https://github.com/rstudio/concept-maps). 
 
-Colaboré en la traducciòn y revisión de los siguientes libros:
-   R4DS (R for Data Science)
-   Teaching Tech Together 
+Colaboré en la traducción al español y revisión de los siguientes libros:
+   [R for Data Science](https://github.com/cienciadedatos) y
+   [Teaching Tech Together](https://teachtogether.tech/)
    
-Formé parte del Comité Organizador de LatinR 2018 y 2020 y del Comité Científico en Cai 2018 y 2020.
+Formé parte del Comité Organizador de [LatinR](https://latin-r.com/) 2018 y 2020 y del Comité Científico del Congreso Argentino de Agroinformática (CAI) 2018 y 2020.
 
 Me apasiona el análisis de datos, la enseñanza de R y ser mentora. 
 
