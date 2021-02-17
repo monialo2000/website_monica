@@ -2,8 +2,8 @@
 header:
   caption: ""
   image: ""
-title: Courses
+title: Cursos
 type: page
 ---
 
-I teach the following courses:
+No hay cursos habilitados aún
