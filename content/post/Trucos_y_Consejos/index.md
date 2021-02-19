@@ -13,15 +13,17 @@ image:
   focal_point: ""
   placement: 2
   preview_only: false
-lastmod: "2020-02-21T00:00:00Z"
+lastmod: "2021-02-19T00:00:00Z"
 projects: []
-subtitle: "Bienvenido \U0001F44B Querés empezar a trabajar en R y no conoces el RStudio Ide,   es mi opción favorita para escribir código, este documento te servirá para conocer los 
-primeros pasos para trabajar en él, y algunos consejos útiles"
+subtitle: "Bienvenido \U0001F44B Querés empezar a trabajar en R y no conoces el RStudio Ide?   Es mi opción favorita para escribir código! Este documento te servirá en tus primeros pasos
+ para trabajar con él, y también encontrarás algunos consejos útiles"
   
-summary: "Bienvenido \U0001F44B Querés empezar a trabajar en R y no conoces el RStudio Ide,   es mi opción favorita para escribir código, este documento te servirá para conocer los 
-primeros pasos para trabajar en él, y algunos consejos útiles"
+summary: "Bienvenido \U0001F44B Querés empezar a trabajar en R y no conoces el RStudio Ide? 
+Es mi opción favorita para escribir código! Este documento te servirá en tus primeros pasos
+ para trabajar con él, y también encontrarás algunos consejos útiles"
 tags:
-- Academic
+- RStudio Ide
+- Programación
 
 title: Cómo trabajar en RStudio IDE, Trucos y Consejos
 ---
